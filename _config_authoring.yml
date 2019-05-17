@@ -11,7 +11,7 @@ incremental: false
 permalink: pretty
 safe: false
 lsi: false
-url: https://docs.docker.com
+url: https://pauladambrookes.github.io/dockerfork/
 
 # Component versions -- address like site.docker_ce_version
 # You can't have - characters in these for non-YAML reasons
